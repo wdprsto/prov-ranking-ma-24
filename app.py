@@ -93,7 +93,7 @@ with col1:
     """)
 
 with col2:
-    st.image('data\SCI_About_banner01@2x.png', use_column_width=True)
+    st.image('data/SCI_About_banner01@2x.png', use_column_width=True)
 
 # Documentation section
 with st.expander("⚠️ Peringatan"):
