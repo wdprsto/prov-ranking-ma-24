@@ -195,7 +195,7 @@ else:
         )
     
     # SKD Distribution by Province
-    st.sugibheader("📊 Distribusi Nilai SKD berdasarkan Provinsi")
+    st.subheader("📊 Distribusi Nilai SKD berdasarkan Provinsi")
     
     # Create tabs for different visualizations
     tab1, tab2, tab3 = st.tabs(["Histogram", "Boxplot", "Komponen SKD"])
